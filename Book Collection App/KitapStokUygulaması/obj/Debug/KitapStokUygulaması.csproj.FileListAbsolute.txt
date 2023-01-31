@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\KitapStokUygulaması\KitapStokUygulaması\bin\Debug\KitapStokUygulaması.exe.config
+C:\Users\Lenovo\source\repos\KitapStokUygulaması\KitapStokUygulaması\bin\Debug\KitapStokUygulaması.exe
+C:\Users\Lenovo\source\repos\KitapStokUygulaması\KitapStokUygulaması\bin\Debug\KitapStokUygulaması.pdb
+C:\Users\Lenovo\source\repos\KitapStokUygulaması\KitapStokUygulaması\obj\Debug\KitapStokUygulaması.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\KitapStokUygulaması\KitapStokUygulaması\obj\Debug\KitapStokUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\KitapStokUygulaması\KitapStokUygulaması\obj\Debug\KitapStokUygulaması.Form1.resources
+C:\Users\Lenovo\source\repos\KitapStokUygulaması\KitapStokUygulaması\obj\Debug\KitapStokUygulaması.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\KitapStokUygulaması\KitapStokUygulaması\obj\Debug\KitapStokUygulaması.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\KitapStokUygulaması\KitapStokUygulaması\obj\Debug\KitapStokUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\KitapStokUygulaması\KitapStokUygulaması\obj\Debug\KitapStokUygulaması.exe
+C:\Users\Lenovo\source\repos\KitapStokUygulaması\KitapStokUygulaması\obj\Debug\KitapStokUygulaması.pdb
